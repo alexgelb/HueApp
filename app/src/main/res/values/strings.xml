@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hue-Settings</string>
+    <string name="hue_on_text">Hue on</string>
+    <string name="saturation_text">Saturation:</string>
+    <string name="brightness_text">Brightness:</string>
+    <string name="hue_text">Hue:</string>
+</resources>
